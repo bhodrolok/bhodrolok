@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <a href="mailto:korbolorbo1214@proton.me"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=protonmail&logoColor=white">
 </div>                    
           
-<h3> Open to collaborating on projects! </h3>
+<h3> Open to collaborating in projects! </h3>
 
 ---
 
