@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+
 -->
 
 <a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <div class="skills">
 
 <div class="languages">
-<h3>Languages </h3>
+
+[![Typing-SVG-Languages](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&duration=2500&color=8D1522&center=true&vCenter=true&repeat=false&width=420&lines=Languages)](https://git.io/typing-svg)
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="java" width="42" height="42"/>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" alt="see" width="42" height="42"/>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="42" height="42"/>
@@ -35,19 +36,37 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="42" height="42"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="42" height="42"/>
 <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="seepp" width="42" height="42"/>
-<a href="https://devdocs.io/c/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="see" width="42" height="42"/>
+<a href="https://devdocs.io/c/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="seesharp" width="42" height="42"/>
+
 </div>
 
 <div class="frame-libs">
-<h3>Frameworks & Libraries </h3>
+
+[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=true&width=420&height=42&lines=Frameworks;Libraries)](https://git.io/typing-svg)
+<a href="https://angular.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="42" height="42"/>
+<a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="42" height="42" background-color="coral"/>
+<a href="https://djangoproject.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="42" height="42" background-color="coral"/>
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="42" height="42" background-color="coral"/>
+<a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42"/>
+<a href="https://jquery.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="42" height="42"/>
+
 </div>
 
 <div class="databases">
-<h3>Databases</h3>
+
+[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=420&height=42&lines=Databases)](https://git.io/typing-svg)
+<a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>
+<a href="https://myssql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42"/>
+<a href="https://sqllite.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqllite" width="42" height="42"/>
+
 </div>
 
 <div class="devops">
-<h3>DevOps</h3>
+
+[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=420&height=42&lines=DevOps)](https://git.io/typing-svg)
+<a href="https://jenkins.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="42" height="42"/>
+<a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="42" height="42"/>
+
 </div>
 
 </div>          
