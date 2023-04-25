@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hello%20World!&animation=fadeIn&fontSize=90&theme=onedark)
+<!-- Dynamic Coloful Image Render => https://github.com/kyechan99/capsule-render -->
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hello%20World!&animation=fadeIn&fontSize=90&theme=onedark" alt="header"></a>
 <!--
 **Bhodrolok/Bhodrolok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,15 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 -->
-
+<!-- Some badges at the top -->
+<div align="right">
+          
 [![Readme Update](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml/badge.svg)](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml)
+          
+</div>
 
 ---
 
-<img src="assets/intro-shell.svg" style="width: 100%;" alt="introduction">
+<!-- Inspired from => https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/ + Ubuntu Terminal -->
+<img src="assets/intro-shell.svg" style="width: 69%;" alt="introduction">
 
 
 <h2> :joystick: Tech Stack: </h2>
@@ -28,7 +32,8 @@ Here are some ideas to get you started:
 <div class="skills">
 
 <div class="languages">
-
+          
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing-SVG-Languages](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&duration=2500&color=8D1522&center=true&vCenter=true&repeat=false&width=320&lines=Languages)](https://git.io/typing-svg)
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="java" width="42" height="42"/>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" alt="see" width="42" height="42"/>
@@ -57,7 +62,7 @@ Here are some ideas to get you started:
 
 <div class="databases">
 
-[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=320&height=42&lines=Databases)](https://git.io/typing-svg)
+[![Typing-SVG-Databases](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=320&height=42&lines=Databases)](https://git.io/typing-svg)
 <a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>
 <a href="https://myssql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42"/>
 <a href="https://sqllite.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqllite" width="42" height="42"/>
@@ -66,7 +71,7 @@ Here are some ideas to get you started:
 
 <div class="devops">
 
-[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=320&height=42&lines=DevOps)](https://git.io/typing-svg)
+[![Typing-SVG-DevOps](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=320&height=42&lines=DevOps)](https://git.io/typing-svg)
 <a href="https://jenkins.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="42" height="42"/>
 <a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="42" height="42"/>
 
@@ -92,10 +97,11 @@ Here are some ideas to get you started:
 <h3> Open to collaborating in projects! </h3>
 
 ---
-
+<!-- Dynamic Coloful Image Render => https://github.com/kyechan99/capsule-render -->
 <a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=69&section=footer&text=Let's%20Connect!&fontSize=42&animation=scaleIn&theme=merko" alt="footer"></a>
 
 <!--START_SECTION:waka-->
+<!-- Dev Metrics in Readme with added feature flags => https://github.com/anmol098/waka-readme-stats -->
 **🐱 My GitHub Data** 
 
 > 📦 9.8 kB Used in GitHub's Storage 
