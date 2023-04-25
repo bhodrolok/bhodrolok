@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   
 ---
 
-Open to collaborating on projects!
+<h3> Open to collaborating on projects! </h3>
 
 ---
 
