@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 
 -->
+
+[![Readme Update](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml/badge.svg)](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml)
+
 ---
 
 <img src="assets/intro-shell.svg" style="width: 100%;" alt="introduction">
