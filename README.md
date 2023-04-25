@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <div class="databases">
 
-[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=420&height=42&lines=Databases)](https://git.io/typing-svg)
+[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=320&height=42&lines=Databases)](https://git.io/typing-svg)
 <a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>
 <a href="https://myssql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42"/>
 <a href="https://sqllite.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqllite" width="42" height="42"/>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <div class="devops">
 
-[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=420&height=42&lines=DevOps)](https://git.io/typing-svg)
+[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=320&height=42&lines=DevOps)](https://git.io/typing-svg)
 <a href="https://jenkins.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="42" height="42"/>
 <a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="42" height="42"/>
 
