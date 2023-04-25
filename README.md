@@ -96,5 +96,40 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=69&section=footer&text=Let's%20Connect!&fontSize=42&animation=scaleIn&theme=merko" alt="footer"></a>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
 
+> 📦 9.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 41 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Tuesday                  58 commits          ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Wednesday                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Thursday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Friday                   97 commits          ███████████░░░░░░░░░░░░░░   42.54 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+WebStorm                 7 mins              ████████████████░░░░░░░░░   62.37 % 
+VS Code                  3 mins              ████████░░░░░░░░░░░░░░░░░   31.59 % 
+Sublime Text             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+```
+
+
+ Last Updated on 25/04/2023 22:02:31 UTC
 <!--END_SECTION:waka-->
