@@ -91,3 +91,7 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=69&section=footer&text=Let's%20Connect!&fontSize=42&animation=scaleIn&theme=merko" alt="footer"></a>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
