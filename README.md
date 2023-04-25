@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 -->
 ---
 
+<img src="assets/intro-shell.svg" style="width: 100%;" alt="introduction">
+
+
 <h2> :joystick: Tech Stack: </h2>
 
 <div class="skills">
