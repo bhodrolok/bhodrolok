@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 
 -->
-
-<a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
-
 ---
 
 <h2> :joystick: Tech Stack: </h2>
@@ -68,10 +65,9 @@ Here are some ideas to get you started:
 <a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="42" height="42"/>
 
 </div>
-
+          
 </div>          
           
-
 ---
 
 <h2> :jigsaw: Activities </h2>
@@ -81,6 +77,12 @@ Here are some ideas to get you started:
   
 ---
 
+<h2> Contact </h2>
+<div align="justify">          
+<a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+<a href="mailto:korbolorbo1214@proton.me"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=protonmail&logoColor=white">
+</div>                    
+          
 <h3> Open to collaborating on projects! </h3>
 
 ---
