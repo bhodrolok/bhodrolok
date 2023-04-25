@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div class="languages">
 
-[![Typing-SVG-Languages](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&duration=2500&color=8D1522&center=true&vCenter=true&repeat=false&width=420&lines=Languages)](https://git.io/typing-svg)
+[![Typing-SVG-Languages](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&duration=2500&color=8D1522&center=true&vCenter=true&repeat=false&width=320&lines=Languages)](https://git.io/typing-svg)
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="java" width="42" height="42"/>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" alt="see" width="42" height="42"/>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="42" height="42"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div class="frame-libs">
 
-[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=true&width=420&height=42&lines=Frameworks;Libraries)](https://git.io/typing-svg)
+[![Typing-SVG-Frame-Libs](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=true&width=320&height=42&lines=Frameworks;Libraries)](https://git.io/typing-svg)
 <a href="https://angular.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="42" height="42"/>
 <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="42" height="42" background-color="coral"/>
 <a href="https://djangoproject.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="42" height="42" background-color="coral"/>
