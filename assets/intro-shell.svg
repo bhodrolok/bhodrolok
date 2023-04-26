@@ -88,7 +88,15 @@
                 }
 
                 span {
-                    color: white;
+                    color: #e5f9e3;
+                }
+                
+                span.ps1-1 {
+                    color: #445caa;
+                }
+
+                span.ps1-2 {
+                    color: #f5fdfe;
                 }
 
                 .output {
@@ -133,29 +141,29 @@
 
                     -->
                     <div class="prompt">
-                        root@localhost:-$ <span>whoami</span>
+                        root@localhost:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>whoami</span>
                     </div>
                     <div class="output">Ranadip Chatterjee</div>
 
                     <div class="prompt">
-                        root@localhost:-$ <span>whereis</span>
+                        root@localhost:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>whereis</span>
                     </div>
                     <div class="output">Alberta, Canada</div>
 
                     <div class="prompt">
-                        root@localhost:-$ <span>about -e</span>
+                        root@localhost:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>about -e</span>
                     </div>
                     <div style="color: #43559a">New grad</div>
                     <div class="output">BSc. Computer Science</div>
                     <div class="output">University of Calgary</div>
 
                     <div class="prompt">
-                        root@localhost:-$ <span>interests</span>
+                        root@localhost:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>interests</span>
                     </div>
                     <div class="output">Tinkering, configuring, building and breaking things</div>
 
                     <div class="prompt">
-                        root@localhost:-$ <span>status -c</span>
+                        root@localhost:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>status -c</span>
                     </div>
                     <div class="output">Looking for new opportunities</div>
                 
