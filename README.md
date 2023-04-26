@@ -81,7 +81,7 @@ Here are some ideas to get you started:
           
 ---
 
-<h2> :jigsaw: Activities </h2>
+<h2> :jigsaw: Activities: </h2>
 
 - <h3> :hammer_and_wrench: I’m currently working on: </h3> 
           <h4> <a href="https://github.com/Bhodrolok/JobAppTrackr" target="_blank">JobAppTrackr</a> - Easily track and manage your job applications on the web! </h4>
