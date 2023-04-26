@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 <!-- Dynamic Coloful Image Render => https://github.com/kyechan99/capsule-render -->
 <a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=69&section=footer&text=Let's%20Connect!&fontSize=42&animation=scaleIn&theme=merko" alt="footer"></a>
 
+<!-- Dev Metrics in Readme with added feature flags => https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
