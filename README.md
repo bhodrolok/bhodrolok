@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 > 📦 10.4 kB Used in GitHub's Storage 
  > 
-> 🏆 267 Contributions in the Year 2023
+> 🏆 268 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -131,9 +131,10 @@ Sunday                   98 commits          ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 19 mins       █████████████████████░░░░   84.93 % 
+Sublime Text             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 ```
 
 
- Last Updated on 26/05/2023 01:02:07 UTC
+ Last Updated on 27/05/2023 01:03:45 UTC
 <!--END_SECTION:waka-->
