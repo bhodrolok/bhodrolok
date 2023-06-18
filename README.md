@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 
 > 📦 10.5 kB Used in GitHub's Storage 
  > 
-> 🏆 268 Contributions in the Year 2023
+> 🏆 276 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -131,9 +131,10 @@ Sunday                   98 commits          ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Sublime Text             2 mins              █████████████████████████   100.00 % 
+VS Code                  17 hrs 47 mins      █████████████████████████   99.89 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 12/06/2023 01:13:47 UTC
+ Last Updated on 18/06/2023 04:45:28 UTC
 <!--END_SECTION:waka-->
