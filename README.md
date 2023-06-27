@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- Some badges at the top -->
-<div align="right">
+<div align="center">
           
 [![Readme Update](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml/badge.svg)](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml)
+[![Portfolio](https://img.shields.io/badge/man-about-blue.svg?style=flat-square&logo=caffeine&logoColor=white)](https://bhodrolok.github.io)
           
 </div>
 
@@ -85,6 +87,7 @@ Here are some ideas to get you started:
 
 - <h3> :hammer_and_wrench: I’m currently working on: </h3> 
           <h4> <a href="https://github.com/Bhodrolok/JobAppTrackr" target="_blank">JobAppTrackr</a> - Easily track and manage your job applications on the web! </h4>
+          <h4><a href="https://github.com/Bhodrolok/rupantar" target="_blank">rupantar</a> - Simple hackable static site generator with a focus on minimalism!</h4>
   
 ---
 
