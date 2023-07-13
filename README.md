@@ -134,9 +134,10 @@ Sunday                   98 commits          ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             1 hr 30 mins        █████████████████████████   98.23 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 
- Last Updated on 12/07/2023 01:16:22 UTC
+ Last Updated on 13/07/2023 01:19:54 UTC
 <!--END_SECTION:waka-->
