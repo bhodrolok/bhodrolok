@@ -1,0 +1,74 @@
+<!-- Inspiration from the GNOME Terminal (emulator) + https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme -->
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 600 400" width="600" height="400">
+    <foreignObject width="100%" height="100%">
+        <div>
+            <link rel="stylesheet" href="../styling/terminal.css" type="text/css"/>
+            <div class="body">
+
+                <header>
+                    <div class="primary-header">rcxd@buntu-box:~</div>
+                        <div class="buttons">
+                            <button class="minimize">-</button>
+                            <button class="maximize">&#9744;</button>
+                            <button class="exit">✖️</button>
+                        </div>
+                </header>
+
+                <hr/>
+
+                <div class="secondary-header">
+                    <div class="buttons">
+                        <button class="generic">File</button>
+                        <button class="generic">Edit</button>
+                        <button class="generic">View</button>
+                        <button class="generic">Search</button>
+                        <button class="generic">Terminal</button>
+                        <button class="generic">Help</button>
+                    </div>
+
+                </div>
+
+                <div class="terminal">
+
+                    
+                    <div class="prompt">
+                        rcxd@buntu-box: <span class="ps1-1">~</span><span class="ps1-2">$</span> <span>date -u</span>
+                    </div>
+                    <div class="output"><span id="curr-date">Tue Apr 25 15:03:22 UTC 2023</span></div>
+
+                    
+                    <div class="prompt">
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>whoami</span>
+                    </div>
+                    <div class="output">Ranadip Chatterjee</div>
+
+                    <div class="prompt">
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>whereis</span>
+                    </div>
+                    <div class="output">Alberta, Canada</div>
+
+                    <div class="prompt">
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>about -e</span>
+                    </div>
+                    <div style="color: #43559a">New grad</div>
+                    <div class="output">BSc. Computer Science</div>
+                    <div class="output">University of Calgary</div>
+
+                    <div class="prompt">
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>interests</span>
+                    </div>
+                    <div class="output">Tinkering, configuring, building and breaking things</div>
+
+                    <div class="prompt">
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>status -c</span>
+                    </div>
+                    <div class="output">Looking for new opportunities</div>
+                
+                </div>
+            
+            </div>
+        
+        </div>
+        <script type="text/javascript" src="../scripts/dater.js"></script>
+    </foreignObject>
+</svg>
