@@ -1,3 +1,7 @@
 .vscode/
+# apparently this means Git stops checking the dir entirely, so exceptions for file within sub-dir woudln't work...
 assets/*
+# so add this 'breakpoint'
+!assets/svgs/
+assets/svgs/*
 !assets/svgs/main.svg
