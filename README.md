@@ -11,9 +11,8 @@
 
 ---
 
-<!-- Inspired from => https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/ + Ubuntu Terminal -->
-<img src="assets/svgs/intro-shell.svg" style="width: 69%;" alt="introduction">
-
+<!-- Ubuntu Terminal-inspired SVG -->
+<img src="assets/svgs/main.svg"  alt="introduction-terminal"/>
 
 <h2> :joystick: Tech Stack: </h2>
 
