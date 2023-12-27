@@ -1,8 +1,6 @@
-<!-- Inspiration from the GNOME Terminal (emulator) + https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme -->
 <svg fill="none" viewBox="0 -5 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div>
-
             <style>
                 .body {
                     width: 100%;
@@ -10,11 +8,13 @@
                     background-color: #42092b;
                     scale: 1;
                 }
+
                 * {
                     margin: 0;
                     padding: 0;
                     box-sizing: border-box;
                 }
+
                 header {
                     background-color: #4a4842;
                     color: #e8ead4;
@@ -26,6 +26,7 @@
                     height: 40px;
                     width: 100%;
                 }
+                
                 .secondary-header{
                     background-color: #4a4842;
                     color: #e8ead4;
@@ -37,15 +38,19 @@
                     height: 30px;
                     width: 100%;
                 }
+
                 hr.solid {
                     border-top: 2px solid #3e3d39;
                     border-bottom: none;
                 }
+
+
                 .title {
                     text-align: center;
                     font-size: 19px;
                     flex-grow: 1;
                 }
+
                 .buttons {
                     display: flex;
                     gap: 20px;
@@ -54,6 +59,7 @@
                     padding: 1px;
                     margin: 4px 2px;
                 }
+
                 .buttons button {
                     background-color: transparent;
                     color: white;
@@ -61,35 +67,44 @@
                     outline: none;
                     cursor: pointer;
                 }
+
                 .buttons button:hover {
                     background-color: white;
                 }
+
                 .exit{
                     border-radius: 100%;
                 }
+
                 .terminal {
                     font-family: "Source Code Pro", Bitstream Vera Sans Mono, sans-serif;
                     padding: 4px;
                 }
+
                 .prompt {
                     color: #79d634;
                     display: inline-block;
                 }
+
                 span {
                     color: #e5f9e3;
                 }
+                
                 span.ps1-1 {
                     color: #445caa;
                 }
+
                 span.ps1-2 {
                     color: #f5fdfe;
                 }
+
                 .output {
                     color: antiquewhite;
                 }
             </style>
 
             <div class="body">
+
                 <header>
                     <div class="title">rcxd@buntu-box:~</div>
                         <div class="buttons">
@@ -98,7 +113,9 @@
                             <button class="exit">✖️</button>
                         </div>
                 </header>
+
                 <hr/>
+
                 <div class="secondary-header">
                     <div class="buttons">
                         <button class="generic">File</button>
@@ -108,7 +125,9 @@
                         <button class="generic">Terminal</button>
                         <button class="generic">Help</button>
                     </div>
+
                 </div>
+
                 <div class="terminal">
                     <div class="prompt">
                         rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>whoami</span>
@@ -118,7 +137,7 @@
                     <div class="prompt">
                         rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>whereis</span>
                     </div>
-                    <div class="output">Alberta, Canada</div>
+                    <div class="output">Calgary, Alberta, Canada</div>
 
                     <div class="prompt">
                         rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>about -e</span>
@@ -128,17 +147,18 @@
                     <div class="output">University of Calgary</div>
 
                     <div class="prompt">
-                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>interests</span>
-                    </div>
-                    <div class="output">Tinkering, configuring, building and breaking things</div>
-
-                    <div class="prompt">
-                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>status -c</span>
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>status --current</span>
                     </div>
                     <div class="output">Looking for new opportunities</div>
+                
+                    <div class="prompt">
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>interests</span>
+                    </div>
+                    <div class="output">Web Dev, Distributed Systems, DevOps, Cloud, Generative AI</div>
                 </div>
+            
             </div>
-
+        
         </div>
     </foreignObject>
 </svg>
