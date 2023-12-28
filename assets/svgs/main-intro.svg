@@ -2,6 +2,7 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+
                 .body {
                     width: 100%;
                     height: 310px;
@@ -101,6 +102,8 @@
                 .output {
                     color: antiquewhite;
                 }
+
+
             </style>
 
             <div class="body">
@@ -129,6 +132,14 @@
                 </div>
 
                 <div class="terminal">
+
+                    <!--
+                    <div class="prompt">
+                        sudo@localhost:-$ <span>date</span>
+                    </div>
+                    <div class="output">Tue Apr 25 15:03:22 UTC 2023</div>
+
+                    -->
                     <div class="prompt">
                         rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>whoami</span>
                     </div>
@@ -145,16 +156,17 @@
                     <div style="color: #43559a">New grad</div>
                     <div class="output">BSc. Computer Science</div>
                     <div class="output">University of Calgary</div>
-            
-                    <div class="prompt">
-                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>status --current</span>
-                    </div>
-                    <div class="output">Looking for new opportunities</div>
-                
+
                     <div class="prompt">
                         rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>interests</span>
                     </div>
                     <div class="output">Web Dev, Distributed Systems, DevOps, Cloud, Generative AI</div>
+
+                    <div class="prompt">
+                        rcxd@buntu-box:<span class="ps1-1">~</span><span class="ps1-2">$</span> <span>status -c</span>
+                    </div>
+                    <div class="output">Looking for new opportunities</div>
+                
                 </div>
             
             </div>

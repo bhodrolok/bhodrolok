@@ -4,4 +4,4 @@ assets/*
 # so add this 'breakpoint'
 !assets/svgs/
 assets/svgs/*
-!assets/svgs/main.svg
+!assets/svgs/main-intro.svg

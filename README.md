@@ -12,7 +12,7 @@
 ---
 
 <!-- Ubuntu Terminal-inspired SVG -->
-<img src="assets/svgs/main.svg"  alt="introduction-terminal"/>
+<img src="assets/svgs/main-intro.svg"  alt="introduction-terminal"/>
 
 <h2> :joystick: Tech Stack: </h2>
 
