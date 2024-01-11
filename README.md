@@ -73,12 +73,14 @@
           <h4><a href="https://github.com/Bhodrolok/rupantar" target="_blank">rupantar</a> - Simple hackable static site generator with a focus on minimalism & extensibility</h4>
           <h4> <a href="https://github.com/Bhodrolok/JobAppTrackr" target="_blank">JobAppTrackr</a> - Track and manage your job applications on the web </h4>
           <h4>Modernising & improving my previous projects</h4>
-  
+
+          
 ---
 
 <h2> Contact: </h2>
 <div align="justify">          
-<a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+<a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.discordapp.com/users/852499038057529364" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 <a href="mailto:korbolorbo1214@proton.me"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=protonmail&logoColor=white">
 </div>                    
           
