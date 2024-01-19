@@ -1,5 +1,5 @@
 <!-- Dynamic Coloful Image Render => https://github.com/kyechan99/capsule-render -->
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hello%20World!&animation=fadeIn&fontSize=90&theme=onedark" alt="header"></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hello%20World!&animation=fadeIn&fontSize=90&theme=onedark" alt="gh-header"></a>
 
 <div align="center">
           
