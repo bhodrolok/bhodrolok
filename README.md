@@ -74,7 +74,6 @@
           <h4> <a href="https://github.com/Bhodrolok/JobAppTrackr" target="_blank">JobAppTrackr</a> - Track and manage your job applications on the web </h4>
           <h4>Modernising & improving my previous projects!</h4>
 
-          
 ---
 
 <h2> Contact: </h2>
