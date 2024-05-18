@@ -58,6 +58,7 @@
 
 <div class="devops">
 
+
 [![Typing-SVG-DevOps](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=42&color=8D1522&duration=2000&pause=2000&center=true&vCenter=true&repeat=false&width=320&height=42&lines=DevOps)](https://git.io/typing-svg)
 <a href="https://jenkins.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="42" height="42"/>
 <a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="42" height="42"/>
