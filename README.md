@@ -74,7 +74,7 @@
 - <h3> :hammer_and_wrench: Currently I'm working on:  </h3> 
           <h4><a href="https://github.com/Bhodrolok/rupantar" target="_blank">rupantar</a> - Simple hackable static site generator with a focus on minimalism & extensibility</h4>
           <h4> <a href="https://github.com/Bhodrolok/JobAppTrackr" target="_blank">JobAppTrackr</a> - Track and manage your job applications on the web </h4>
-          <h4>My website. Check it out!</h4>
+          <h4> <a href="https://bhodrolok.xyz" target="_blank"> My personal website</a> - Check it out!</h4>
           <h4>Modernising & improving my previous projects!</h4>
 
 ---
