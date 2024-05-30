@@ -90,4 +90,4 @@
 
 ---
 <!-- Dynamic Coloful Image Render => https://github.com/kyechan99/capsule-render -->
-<a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=69&section=footer&text=Let's%20Connect!&fontSize=42&animation=scaleIn&theme=merko" alt="footer"></a>
+<a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=69&section=footer&text=Connect%20with%20me%20here!&fontSize=42&animation=scaleIn&theme=merko" alt="footer"></a>
