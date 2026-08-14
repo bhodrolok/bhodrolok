@@ -1,0 +1,20 @@
+[project]
+name = "terminal-profile"
+version = "0.1.0"
+description = "Generate a SVG based on a YAML configuration file to be used as a 'terminal profile' inspired by the default Ubuntu Terminal UI."
+# readme = "README.md"
+authors = [
+    { name = "R C", email = "korbolorbo1214@proton.me" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "jinja2>=3.1.6",
+    "pyyaml>=6.0.3",
+]
+
+[project.scripts]
+terminal-profile = "terminal_profile:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
