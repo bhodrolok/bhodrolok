@@ -4,7 +4,7 @@
 
 <div align="center">
           
-[![Readme Update](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml/badge.svg)](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml)
+<!-- [![Readme Update](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml/badge.svg)](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml) -->
 [![Portfolio](https://img.shields.io/badge/man-about-blue.svg?style=flat-square&logo=caffeine&logoColor=white)](https://bhodrolok.github.io)
           
 </div>
@@ -13,7 +13,7 @@
 
 
 <!-- Ubuntu Terminal-inspired SVG -->
-<img src="assets/svgs/main-intro.svg"  alt="introduction-terminal"/>
+<img src="terminal-profile/src/terminal_profile/profile.svg"  alt="introduction-terminal"/>
 
 <h2> :joystick: Tech Stack: </h2>
 
@@ -71,9 +71,7 @@
 
 <h2> :jigsaw: Activities: </h2>
 
-- <h3> :hammer_and_wrench: Currently I'm working on:  </h3> 
-          <h4><a href="https://github.com/Bhodrolok/rupantar" target="_blank">rupantar</a> - Simple hackable static site generator with a focus on minimalism & extensibility</h4>
-          <h4> <a href="https://github.com/Bhodrolok/JobAppTrackr" target="_blank">JobAppTrackr</a> - Track and manage your job applications on the web </h4>
+- <h3> :hammer_and_wrench: Here are some of the projects that I'm currently working on:  </h3> 
           <h4> <a href="https://rana-dip.dev" target="_blank"> My personal portfolio website</a> - Check it out!</h4>
           <h4>Refactoring and improving my previous projects...</h4>
 
@@ -84,10 +82,4 @@
 <a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://www.discordapp.com/users/852499038057529364" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 <a href="mailto:korbolorbo1214@proton.me"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=protonmail&logoColor=white">
-</div>                    
-          
-<h3> Open to collaborating in projects! </h3>
-
----
-<!-- Dynamic Coloful Image Render => https://github.com/kyechan99/capsule-render -->
-<a href="https://www.linkedin.com/in/ranadipc" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=69&section=footer&text=Connect%20with%20me%20here!&fontSize=42&animation=scaleIn&theme=merko" alt="footer"></a>
+</div>
