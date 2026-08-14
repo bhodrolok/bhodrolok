@@ -1,7 +1,24 @@
 .vscode/
-# apparently this means Git stops checking the dir entirely, so exceptions for file within sub-dir woudln't work...
-assets/*
-# so add this 'breakpoint'
-!assets/svgs/
-assets/svgs/*
-!assets/svgs/main-intro.svg
+# uv stuff 
+# Ignore the local virtual environment created by uv
+.venv/
+
+# Environment vars
+.env
+.env.*
+!.env.example
+
+# Python stuff - temporary caches and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+
+# IDE/Tools stuff
+.idea/
+.vscode/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
