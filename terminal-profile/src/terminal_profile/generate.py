@@ -86,7 +86,7 @@ svg = template.render(
     commands=commands,
     width=900,
     height=height,
-    font_size=14,
+    font_size=15,
     line_height=line_height,
 )
 
