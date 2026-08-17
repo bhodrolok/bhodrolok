@@ -6,14 +6,12 @@
 >
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-
             <style>
                 * {
                     margin: 0;
                     padding: 0;
                     box-sizing: border-box;
                 }
-
                 .terminal-window {
                     width: 100%;
                     height: 100%;
@@ -23,37 +21,31 @@
                                  "Bitstream Vera Sans Mono",
                                  monospace;
                 }
-
                 .titlebar,
                 .menubar {
                     background: #4a4842;
                     display: flex;
                     align-items: center;
                 }
-
                 .titlebar {
                     height: 40px;
                     justify-content: center;
                     position: relative;
                 }
-
                 .title {
                     color: #e8ead4;
                     font-size: 16px;
                 }
-
                 .window-controls {
                     position: absolute;
                     right: 12px;
                     display: flex;
                     gap: 10px;
                 }
-
                 .control {
                     color: #e8ead4;
                     font-family: sans-serif;
                 }
-
                 .menubar {
                     height: 30px;
                     padding-left: 12px;
@@ -62,54 +54,42 @@
                     font-family: sans-serif;
                     font-size: 13px;
                 }
-
                 hr {
                     border: 0;
                     border-top: 2px solid #3e3d39;
                 }
-
                 .terminal {
                     padding: 8px 12px;
                     font-size: {{ font_size }}px;
                     line-height: {{ line_height }}px;
                 }
-
                 .command-line {
                     white-space: nowrap;
                 }
-
                 .prompt {
                     color: #79d634;
                 }
-
                 .path {
                     color: #445caa;
                 }
-
                 .symbol {
                     color: #f5fdfe;
                 }
-
                 .command {
                     color: #e5f9e3;
                 }
-
                 .output {
                     color: antiquewhite;
                 }
-
                 .output-line {
-                    white-space: pre-wrap;
+                    white-space: pre;
                 }
             </style>
-
             <div class="terminal-window">
-
                 <div class="titlebar">
                     <div class="title">
                         {{ username }}@{{ hostname }}:~
                     </div>
-
                     <div class="window-controls">
                         <span class="control">−</span>
                         <span class="control">□</span>
@@ -134,8 +114,7 @@
 
                         <div class="command-line">
                             <span class="prompt">
-                                {{ username }}@{{ hostname }}:
-                            </span><span class="path">~</span><span class="symbol">$</span>
+                                {{ username }}@{{ hostname }}:</span><span class="path">~</span><span class="symbol">$</span>
                             <span class="command"> {{ command.name }}</span>
                         </div>
 
@@ -144,9 +123,7 @@
                         {% endfor %}
 
                     {% endfor %}
-
                 </div>
-
             </div>
         </div>
     </foreignObject>
