@@ -19,16 +19,28 @@ hobbies:
 techstack:
   Languages:
       - Python
-      - JavaScript
       - TypeScript
-      - Go
+      - JavaScript
+      - Golang
       - Java
       - HTML
       - CSS
+      - SQL
   Frameworks:
       - React
       - Node.js
       - Django
-  Tools:
+  Cloud:
+      - AWS (EC2, S3, RDS, Lambda, CloudFormation)
+      - OCI
+  Databases:
+      - MySQL
+      - Firebird
+      - Postgres
+      - MongoDB
+  Dev Tools:
       - Docker
       - Git
+      - Linux
+      - Shell Scripting
+      - Postman
