@@ -16,3 +16,19 @@ hobbies:
   - Cooking
   - Anime
   - Manga
+techstack:
+  Languages:
+      - Python
+      - JavaScript
+      - TypeScript
+      - Go
+      - Java
+      - HTML
+      - CSS
+  Frameworks:
+      - React
+      - Node.js
+      - Django
+  Tools:
+      - Docker
+      - Git
