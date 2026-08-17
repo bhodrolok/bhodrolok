@@ -5,7 +5,7 @@
 <div align="center">
           
 <!-- [![Readme Update](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml/badge.svg)](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml) -->
-[![Portfolio](https://img.shields.io/badge/man-about-blue.svg?style=flat-square&logo=caffeine&logoColor=white)](https://bhodrolok.github.io)
+[![Portfolio](https://img.shields.io/badge/man-about-blue.svg?style=flat-square&logo=caffeine&logoColor=white)](https://rana-dip.dev)
           
 </div>
 
