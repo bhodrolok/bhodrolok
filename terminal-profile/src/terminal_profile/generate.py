@@ -3,11 +3,27 @@ from pathlib import Path
 import yaml
 from jinja2 import Environment, FileSystemLoader
 
+import json
+
 BASE_DIR = Path(__file__).parent
 
 profile = yaml.safe_load(
     (BASE_DIR / "profile.yaml").read_text()
 )
+
+# Short helper func for formatting the techstack JSON for compact prettyprinting
+def format_compact_json(data):
+    lines = ["{"]
+
+    items = list(data.items())
+
+    for index, (key, value) in enumerate(items):
+        comma = "," if index < len(items) - 1 else ""
+        lines.append(f'  "{key}": {json.dumps(value)}{comma}')
+
+    lines.append("}")
+
+    return lines
 
 commands = [
     {
@@ -25,6 +41,11 @@ commands = [
     {
         "name": "status --current",
         "output": [profile["status"]],
+    },
+    {
+        "name": "curl rana-dip.dev/techstack.json | jq --compact",
+        # "output": json.dumps(profile["techstack"],indent=2).splitlines(),
+        "output": format_compact_json(profile["techstack"]),
     },
     {
         "name": "cat $HOME/interests.txt",
