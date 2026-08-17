@@ -1,8 +1,8 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 600 446"
-    width="600"
-    height="446"
+    viewBox="0 0 900 486"
+    width="900"
+    height="486"
 >
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -60,7 +60,7 @@
                 }
                 .terminal {
                     padding: 8px 12px;
-                    font-size: 14px;
+                    font-size: 15px;
                     line-height: 20px;
                 }
                 .command-line {
@@ -169,11 +169,15 @@
                         
                             <div class="output output-line">{</div>
                         
-                            <div class="output output-line">  "Languages": ["Python", "JavaScript", "TypeScript", "Go", "Java", "HTML", "CSS"],</div>
+                            <div class="output output-line">  "Languages": ["Python", "TypeScript", "JavaScript", "Golang", "Java", "HTML", "CSS", "SQL"],</div>
                         
                             <div class="output output-line">  "Frameworks": ["React", "Node.js", "Django"],</div>
                         
-                            <div class="output output-line">  "Tools": ["Docker", "Git"]</div>
+                            <div class="output output-line">  "Cloud": ["AWS (EC2, S3, RDS, Lambda, CloudFormation)", "OCI"],</div>
+                        
+                            <div class="output output-line">  "Databases": ["MySQL", "Firebird", "Postgres", "MongoDB"],</div>
+                        
+                            <div class="output output-line">  "Dev Tools": ["Docker", "Git", "Linux", "Shell Scripting", "Postman"]</div>
                         
                             <div class="output output-line">}</div>
                         
