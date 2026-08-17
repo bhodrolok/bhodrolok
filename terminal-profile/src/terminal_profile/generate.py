@@ -84,7 +84,7 @@ template = env.get_template("terminal.svg.j2")
 svg = template.render(
     **profile,
     commands=commands,
-    width=600,
+    width=900,
     height=height,
     font_size=14,
     line_height=line_height,
