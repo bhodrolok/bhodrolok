@@ -3,7 +3,6 @@ from pathlib import Path
 import yaml
 from jinja2 import Environment, FileSystemLoader
 
-
 BASE_DIR = Path(__file__).parent
 
 profile = yaml.safe_load(
@@ -28,12 +27,16 @@ commands = [
         "output": [profile["status"]],
     },
     {
-        "name": "interests",
+        "name": "cat $HOME/interests.txt",
         "output": [", ".join(profile["interests"])],
     },
+    {
+        "name": "echo $HOBBIES",
+        "output": [", ".join(profile["hobbies"])],
+    }
 ]
 
-# Approximate dimensions based on content
+# Approximate terminal dimensions based on content
 header_height = 40
 menu_height = 30
 padding = 16
@@ -69,4 +72,4 @@ svg = template.render(
 output = BASE_DIR / "profile.svg"
 output.write_text(svg)
 
-print(f"Generated {output}")
+print(f"Generated {output} successfully")
