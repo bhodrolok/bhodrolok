@@ -1,19 +1,17 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 600 326"
+    viewBox="0 0 600 446"
     width="600"
-    height="326"
+    height="446"
 >
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-
             <style>
                 * {
                     margin: 0;
                     padding: 0;
                     box-sizing: border-box;
                 }
-
                 .terminal-window {
                     width: 100%;
                     height: 100%;
@@ -23,37 +21,31 @@
                                  "Bitstream Vera Sans Mono",
                                  monospace;
                 }
-
                 .titlebar,
                 .menubar {
                     background: #4a4842;
                     display: flex;
                     align-items: center;
                 }
-
                 .titlebar {
                     height: 40px;
                     justify-content: center;
                     position: relative;
                 }
-
                 .title {
                     color: #e8ead4;
                     font-size: 16px;
                 }
-
                 .window-controls {
                     position: absolute;
                     right: 12px;
                     display: flex;
                     gap: 10px;
                 }
-
                 .control {
                     color: #e8ead4;
                     font-family: sans-serif;
                 }
-
                 .menubar {
                     height: 30px;
                     padding-left: 12px;
@@ -62,54 +54,42 @@
                     font-family: sans-serif;
                     font-size: 13px;
                 }
-
                 hr {
                     border: 0;
                     border-top: 2px solid #3e3d39;
                 }
-
                 .terminal {
                     padding: 8px 12px;
                     font-size: 14px;
                     line-height: 20px;
                 }
-
                 .command-line {
                     white-space: nowrap;
                 }
-
                 .prompt {
                     color: #79d634;
                 }
-
                 .path {
                     color: #445caa;
                 }
-
                 .symbol {
                     color: #f5fdfe;
                 }
-
                 .command {
                     color: #e5f9e3;
                 }
-
                 .output {
                     color: antiquewhite;
                 }
-
                 .output-line {
-                    white-space: pre-wrap;
+                    white-space: pre;
                 }
             </style>
-
             <div class="terminal-window">
-
                 <div class="titlebar">
                     <div class="title">
                         rcxd@buntu-box:~
                     </div>
-
                     <div class="window-controls">
                         <span class="control">−</span>
                         <span class="control">□</span>
@@ -134,8 +114,7 @@
 
                         <div class="command-line">
                             <span class="prompt">
-                                rcxd@buntu-box:
-                            </span><span class="path">~</span><span class="symbol">$</span>
+                                <b>rcxd@buntu-box:</b></span><span class="path"><b>~</b></span><span class="symbol"><b>$</b></span>
                             <span class="command"> whoami</span>
                         </div>
 
@@ -147,8 +126,7 @@
 
                         <div class="command-line">
                             <span class="prompt">
-                                rcxd@buntu-box:
-                            </span><span class="path">~</span><span class="symbol">$</span>
+                                <b>rcxd@buntu-box:</b></span><span class="path"><b>~</b></span><span class="symbol"><b>$</b></span>
                             <span class="command"> whereis</span>
                         </div>
 
@@ -160,8 +138,7 @@
 
                         <div class="command-line">
                             <span class="prompt">
-                                rcxd@buntu-box:
-                            </span><span class="path">~</span><span class="symbol">$</span>
+                                <b>rcxd@buntu-box:</b></span><span class="path"><b>~</b></span><span class="symbol"><b>$</b></span>
                             <span class="command"> about -e</span>
                         </div>
 
@@ -173,8 +150,7 @@
 
                         <div class="command-line">
                             <span class="prompt">
-                                rcxd@buntu-box:
-                            </span><span class="path">~</span><span class="symbol">$</span>
+                                <b>rcxd@buntu-box:</b></span><span class="path"><b>~</b></span><span class="symbol"><b>$</b></span>
                             <span class="command"> status --current</span>
                         </div>
 
@@ -186,8 +162,27 @@
 
                         <div class="command-line">
                             <span class="prompt">
-                                rcxd@buntu-box:
-                            </span><span class="path">~</span><span class="symbol">$</span>
+                                <b>rcxd@buntu-box:</b></span><span class="path"><b>~</b></span><span class="symbol"><b>$</b></span>
+                            <span class="command"> curl rana-dip.dev/techstack.json | jq --compact</span>
+                        </div>
+
+                        
+                            <div class="output output-line">{</div>
+                        
+                            <div class="output output-line">  "Languages": ["Python", "JavaScript", "TypeScript", "Go", "Java", "HTML", "CSS"],</div>
+                        
+                            <div class="output output-line">  "Frameworks": ["React", "Node.js", "Django"],</div>
+                        
+                            <div class="output output-line">  "Tools": ["Docker", "Git"]</div>
+                        
+                            <div class="output output-line">}</div>
+                        
+
+                    
+
+                        <div class="command-line">
+                            <span class="prompt">
+                                <b>rcxd@buntu-box:</b></span><span class="path"><b>~</b></span><span class="symbol"><b>$</b></span>
                             <span class="command"> cat $HOME/interests.txt</span>
                         </div>
 
@@ -199,8 +194,7 @@
 
                         <div class="command-line">
                             <span class="prompt">
-                                rcxd@buntu-box:
-                            </span><span class="path">~</span><span class="symbol">$</span>
+                                <b>rcxd@buntu-box:</b></span><span class="path"><b>~</b></span><span class="symbol"><b>$</b></span>
                             <span class="command"> echo $HOBBIES</span>
                         </div>
 
@@ -209,9 +203,7 @@
                         
 
                     
-
                 </div>
-
             </div>
         </div>
     </foreignObject>
