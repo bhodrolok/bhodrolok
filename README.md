@@ -12,7 +12,7 @@
 ---
 
 <!-- Ubuntu Terminal-inspired SVG -->
-<img src="terminal-profile/src/terminal_profile/profile.svg"  alt="introduction-terminal"/>
+<img src="terminal-profile/src/terminal_profile/profile.svg"  alt="intro-in-terminal"/>
           
 ---
 
