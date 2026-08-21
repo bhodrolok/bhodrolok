@@ -3,7 +3,6 @@
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hello%20World!&animation=fadeIn&fontSize=90&theme=onedark" alt="gh-header"></a>
 
 <div align="center">
-          
 <!-- [![Readme Update](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml/badge.svg)](https://github.com/Bhodrolok/Bhodrolok/actions/workflows/readme-update.yml) -->
 [![Portfolio](https://img.shields.io/badge/man-about-blue.svg?style=flat-square&logo=caffeine&logoColor=white)](https://rana-dip.dev)
           
